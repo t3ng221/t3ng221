@@ -133,7 +133,7 @@
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
       alt="Next.js"
       width="40"
       height="40"
@@ -157,7 +157,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
       alt="Express"
       width="40"
       height="40"
