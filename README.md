@@ -17,12 +17,12 @@
     alt="MERN"
   />
   <img
-    src="https://img.shields.io/badge/Full%20Stack%20Projects-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    alt="Full Stack Developer"
+    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
   />
   <img
-    src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-    alt="Backend Enthusiast"
+    src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"
+    alt="XDA"
   />
 </p>
 
@@ -172,6 +172,7 @@
       height="40"
     />
   </a>
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
