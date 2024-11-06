@@ -44,7 +44,7 @@
   /></a>
 </p>
 
-<p align="center">💬 Ask me about **React, Node.js, MongoDB**</p>
+<p align="center">💬 Ask me about **Javascript, React, Node.js, MongoDB**</p>
 <p align="center">⚡ Fun fact: **I think I am confident.**</p>
 
 <h3 align="center">Connect with me:</h3>
@@ -131,14 +131,7 @@
     />
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
-      alt="Next.js"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
