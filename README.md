@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sazedur Rahman</h1>
 <h3 align="center">
-  A passionate full stack developer who mostly loves to develop backend
-  services.
+  A passionate full stack developer who loves JS.
 </h3>
 
 <p align="center">
@@ -19,10 +18,6 @@
   <img
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
-  />
-  <img
-    src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"
-    alt="XDA"
   />
 </p>
 
@@ -45,11 +40,10 @@
 </p>
 
 <p align="center">💬 Ask me about **Javascript, React, Node.js, MongoDB**</p>
-<p align="center">⚡ Fun fact: **I think I am confident.**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sazedur221/" target="blank"
+  <a href="https://www.linkedin.com/in/md-sazedur-rahman-837179335/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -175,14 +169,6 @@
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="Heroku"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
@@ -193,14 +179,6 @@
     />
   </a>
 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="OpenCV"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
